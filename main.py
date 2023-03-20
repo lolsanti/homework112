@@ -142,6 +142,7 @@ names = ["king", "miller", "kean"]
 domains = ["net", "com", "ua"]
 e_mail = create_email(domains, names)
 print(e_mail)
+
 """
 
 
